@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimP315
 - 👀 I’m interested in FinTech 
-- 🌱 I’m currently learning Monash University FinTech Boot camp
+- 🌱 I’ve previously studied Monash University FinTech Boot camp & now at Boston Uni online studing CS300. 
 - 💞️ I’m looking to collaborate on Robo Advice
 - 📫 How to reach me jimp3105@gmail.com
 
